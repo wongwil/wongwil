@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm William Wong 👋
 
-<!--
-**wongwil/wongwil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 My Journey
+- I grew up in Bülach and I'm passionate about coding, math and machine learning. 
+- Worked at UBS as a Software Engineer.
+- Got my bachelor's degree in Computer Science at ZHAW🧑‍🎓.
+- Created some Machine Learning projects, they cover information retrieval, segmentation, classification and NLP🤖 (check out my repos!).
 
-Here are some ideas to get you started:
+🛠️ What I’m Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Doing my master's degree in CS at ETH Zurich 🧑‍🎓.
+- Working on my master's thesis and about to graduate 😙
+
+🚀 Let’s Connect!
+
+If you have questions about my work or just want to connect, feel free to reach out! I’m always happy to discuss new ideas 😼
+[Linkedin](https://www.linkedin.com/in/william-wong-zh/)
