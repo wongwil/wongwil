@@ -1,10 +1,10 @@
 ## Hello, I'm William Wong 👋
 
 💼 My Journey
-- I grew up in Bülach and I'm passionate about coding, math and machine learning. 
+- I grew up in Bülach and I have always been very passionate about coding and math. 
 - Worked at UBS as a Software Engineer.
 - Got my bachelor's degree in Computer Science at ZHAW🧑‍🎓.
-- Created some Machine Learning projects, they cover information retrieval, segmentation, classification and NLP🤖 (check out my repos!).
+- Created some Machine Learning projects, they cover information retrieval, segmentation, classification and NLP🤖 (check out my pinned repos!).
 
 🛠️ What I’m Up To
 
