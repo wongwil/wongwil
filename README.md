@@ -9,7 +9,7 @@
 🛠️ What I’m Up To
 
 - Doing my master's degree in CS at ETH Zurich 🧑‍🎓.
-- Working on my master's thesis and about to graduate 😙
+- Working on my master's thesis and about to graduate 
 
 🚀 Let’s Connect!
 
