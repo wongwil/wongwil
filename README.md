@@ -4,7 +4,7 @@ My Journey 🧑‍🎓
 - Grew up in Bülach and I have always been very passionate about coding and math. 
 - Worked at UBS as a Software Engineer (2013 - 2018).
 - Got my bachelor's degree in Computer Science at ZHAW (2018 - 2021).
-- Worked on some Machine Learning projects, they cover information retrieval, segmentation, classification and NLP (check out my pinned repositories!).
+- Worked on multiple Machine Learning projects. They cover information retrieval, segmentation, classification and NLP (check out my pinned repositories!).
 
 What I’m Up To 🛠️ 
 
