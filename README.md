@@ -8,7 +8,7 @@ My Journey 🧑‍🎓
 
 What I’m Up To 🛠️ 
 
-- Doing my master's degree in CS at ETH Zurich (2021 - today).
+- Doing my master's degree in CS at ETH Zurich (2022 - today).
 - Working on my master's thesis about mechanistic interpretation of multimodal models (will graduate April, 2025)
 
 
